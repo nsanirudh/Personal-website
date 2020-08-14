@@ -501,6 +501,13 @@ mark,
 }
 
 
+.img-fluid5 {
+  max-width: 30%;
+  max-height: 30%;
+
+}
+
+
 .img-thumbnail {
   padding: 0.25rem;
   background-color: #fff;

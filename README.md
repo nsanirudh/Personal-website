@@ -11,3 +11,11 @@ Step 2 in root directory:
 ```
 http-server
 ```
+To-do list:
+
+* Update work experience section
+    * CDA
+    * MEGDAP
+    * Syctale Alpha
+    * SUTD Collboration
+    * Link Github projects
